@@ -1,0 +1,182 @@
+﻿.pos0{
+	width:1024px;
+	height:auto; 
+	margin-left:auto; 
+	margin-right:auto;
+}
+.pos1{
+	width:1024px; 
+	height:100px;
+}
+.pos2{
+	width:124px; 
+	height:84px; 
+	padding-top:8px; 
+	text-align:center; 
+	float:left;
+}
+.pos3{
+	width:860px; 
+	height:100px; 
+	float:right;
+}
+.pos3-1{
+	width:300px; 
+	float:right; 
+	height:50px;
+}
+.pos3-1-1{
+	width:300px; 
+	height:10px;
+}
+.pos3-1-2{
+	margin-left:10px;	
+}
+.pos3-2{
+	width:860px; 
+	float:right; 
+	height:50px;
+	background-color:#8a8a8a;
+	font-family:'黑体;'
+}
+.pos3-2-1{
+	width:172px; 
+	height:50px; 
+	font-size:18px; 
+	font-weight:900; 
+	color:#FFF; 
+	float:left; 
+	text-align:center; 
+	line-height:50px;
+}
+.yangshi9{
+	width:1024px; 
+	height:15px;
+}
+.yangshi10{
+	width:1024px; 
+	height:2px; 
+	background-color:#999;
+}
+.yangshi11{
+	width:1024px; 
+	height:400px; 
+	margin-top:20px;
+}
+.yangshi12{
+	width:340px; 
+	float:left;
+}
+.yangshi13{
+	width:100%; 
+	height:200px; 
+	border-bottom:2px 
+	solid:#999;}
+.img2{
+	float:left; 
+	margin-right:20px;
+}
+.yangshi15{
+	width:100%; 
+	padding-top:30px;
+}
+.yangshi16{
+	width:15%; 
+	float:left;
+}
+.img3{
+	float:right;
+}
+.yangshi18{
+	width:80%; 
+	margin-left:5%; 
+	float:left; 
+	line-height:19px;
+}
+.img4{
+	width:340px;
+}
+.img5{
+	margin-top:70px;width:340px;
+}
+.yangshi22{
+	width:340px; 
+	float:right;
+}
+.yangshi23{
+	width:340px; 
+	height:40px; 
+	background-color:#d4d4d4; 
+	line-height:40px; 
+	font-size:14px; 
+	font-weight:900;
+}
+.yangshi24{
+	width:100px; 
+	text-align:center; 
+	float:left;
+}
+.yangshi25{
+	width:100px; 
+	text-align:center; 
+	float:right;
+}
+.yangshi26{
+	height:130px; 
+	padding:20px; 
+	text-indent:2em; 
+	font-size:12px; 
+	line-height:22px; 
+	letter-spacing:2px;
+}
+.yangshi27{
+	height:100px; 
+	padding:20px; 
+	text-indent:2em; 
+	font-size:12px; 
+	line-height:22px; 
+	letter-spacing:2px;
+}
+.yangshi28{
+	width:1024px; 
+	height:40px; 
+	font-size:18px; 
+	font-family:'新宋体'; 
+	line-height:40px; color:#434343; 
+	background-color:#d4d4d4;
+}
+.yangshi29{
+	margin-left:65px;
+}
+.yangshi30{
+	width:1024px; 
+	background-color:#4b4b4b; 
+	height:280px; 
+	padding-top:20px;
+}
+.yangshi31{
+	width:1024px; 
+	margin-left:auto; 
+	margin-right:auto;
+}
+.img6{
+	float:left; 
+	width:330px;
+}
+.img7{
+	float:right; 
+	width:330px;
+}
+.img8{
+	margin-left:14px; 
+	width:330px;
+}
+.yangshi35{
+	width:1024px; 
+	height:100px; 
+	text-align:center; 
+	line-height:100px; 
+	font-family:'新宋体'; 
+	font-size:15px;
+	background: #ccc;
+}
